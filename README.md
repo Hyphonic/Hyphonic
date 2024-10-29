@@ -43,6 +43,8 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hyphonic&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub Stats Card" />
 </p>
 
+<a href="https://app.daily.dev/hyphonical"><img src="https://api.daily.dev/devcards/v2/Jo9HxzUFAryLt80X8Ga65.png?type=wide&r=pbk" width="652" alt="Hyphonical's Dev Card"/></a>
+
 ### ❤ Support Me
 
 <p align="left">
