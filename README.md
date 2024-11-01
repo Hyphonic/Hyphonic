@@ -1,16 +1,21 @@
-![👋 Hello there, I'm Hyphonical](https://github.com/Hyphonic/Hyphonic/blob/main/Header2.gif?raw=true)
+<!-- ![👋 Hello there, I'm Hyphonical](https://github.com/Hyphonic/Hyphonic/blob/main/Header2.gif?raw=true) -->
 
-![Profile views](https://komarev.com/ghpvc/?username=Hyphonic&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="image.png" width="150">
+</p>
 
-<div id="toc" align="center">
-  <h1>👋 Hello there, I'm Hyphonical</h1>
-</div>
+<p align="right"><img src="https://readme-typing-svg.demolab.com?font=Nunito&size=35&duration=2000&color=F7F7F7&multiline=true&width=800&height=200&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Hyphonical;%F0%9F%92%BB+3D+Designer;%F0%9F%93%9D+Proficient+Python+and+Skript+coder;%F0%9F%93%8C+Check+out+my+Pinned+Repositories" alt="Typing SVG" /></p>
 
 ### 📃 About Me
 
-- **Intermediate [Skript](https://github.com/SkriptLang/Skript) Developer** - Automating workflows with Bash scripts
-- **Daily Linux User** - Improving productivity with custom tools
-- **Experienced 3D Model Designer** in Autodesk Inventor 2025
+- **Intermediate [Skript](https://github.com/SkriptLang/Skript) Developer** - Creating scripts for a popular game <img src="https://cdn3.emoji.gg/emojis/88103-minecraftcube.gif" width="15"/>
+- **Proficient Python Developer** Learning new ways to waste my time everyday!
+- **Daily Linux User** - Improving productivity with custom tools and Bash scripts
+- <details><summary>Experienced 3D Model Designer in Autodesk Inventor 2025 <img src="https://github.com/user-attachments/assets/6ff3a2c1-9659-4acc-9e3a-9650e1dba9cd" width="15"></img></summary>
+    <h3>My final project of 12th grade</h3>
+    <img src="https://github.com/user-attachments/assets/9495ad48-80f8-445b-860e-2f3d5c80e1b7"></img>
+  </details>
+
 
 ### 🛠️ Skills
 
@@ -41,10 +46,3 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyphonic&layout=compact&langs_count=8&show_icons=true&border_radius=10&theme=transparent&text_color=8caaee&title_color=8caaee&icon_color=99d1db&border_color=303446" />
   <img height="200" src="https://raw.githubusercontent.com/Hyphonic/Hyphonic/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-### Connect with me
-<p align="left">
-  <a href="mailto:Hyphonical@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a>
-  <a href="https://github.com/Hyphonic" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
-  <a href="https://www.reddit.com/user/Hyphonical" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="margin-right: 4px"></a>
-</p>
