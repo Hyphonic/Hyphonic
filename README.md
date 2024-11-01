@@ -1,4 +1,4 @@
-![👋 Hello there, I'm Hyphonical](https://github.com/Hyphonic/Hyphonic/blob/main/Header.gif?raw=true)
+![👋 Hello there, I'm Hyphonical](https://github.com/Hyphonic/Hyphonic/blob/main/Header2.gif?raw=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hyphonic&label=Profile%20views&color=0e75b6&style=flat)
 
