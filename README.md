@@ -29,23 +29,22 @@
 ## 🧰 Skills, Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left; width: 100vw;">
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" title="Python" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=bash" height="48" alt="Bash" title="Bash" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=lua" height="48" alt="Lua" title="Lua" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=xd" height="48" alt="Adobe XD" title="Adobe XD" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=blender" height="48" alt="Blender" title="Blender" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma" title="Figma" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=autocad" height="48" alt="AutoCAD" title="AutoCAD" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=windows" height="48" alt="Windows" title="Windows" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" title="Linux" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=debian" height="48" alt="Debian" title="Debian" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="48" alt="Ubuntu" title="Ubuntu" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" title="GitHub" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" title="VSCode" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" title="HTML" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" title="CSS" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=md" height="48" alt="Markdown" title="Markdown" style="margin-right: 4px">
-  <img src="https://skillicons.dev/icons?i=regex" height="48" alt="Regex" title="Regex" style="margin-right: 4px">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/lua"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/adobexd"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/blender"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/figma"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/autodesk"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/debian"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/zorin"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/vscodium"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/html5"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/markdown"/>
 </div>
 
 
