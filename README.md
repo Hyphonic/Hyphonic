@@ -39,6 +39,7 @@
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Hyphonic&hide_rank=true&show_icons=true&border_radius=20&theme=transparent&text_color=8caaee&title_color=8caaee&icon_color=99d1db&border_color=303446&card_width=320" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hyphonic&layout=compact&langs_count=8&show_icons=true&border_radius=10&theme=transparent&text_color=8caaee&title_color=8caaee&icon_color=99d1db&border_color=303446" />
+  <img height="200" src="https://raw.githubusercontent.com/Hyphonic/Hyphonic/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ### Connect with me
