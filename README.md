@@ -19,12 +19,6 @@
 - **Daily Linux User** – Improving productivity with custom tools
 - **Experienced 3D Model Designer** in Autodesk Inventor 2025
 
-### 💥 Rapid Fire
-
-- 💼 **Currently working on**: Developing new scripts for a Minecraft server in [Skript](https://github.com/SkriptLang/Skript)
-- 🌱 **Currently learning**: Advanced 3D Modeling in Autodesk Inventor 2025
-- 💬 **Ask me about**: Skript, Autodesk Inventor
-
 ### 🛠️ Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
@@ -35,6 +29,17 @@
   <img src="https://skillicons.dev/icons?i=xd" height="32" alt="Adobe XD" style="margin-right: 4px">
   <img src="https://skillicons.dev/icons?i=blender" height="32" alt="Blender" style="margin-right: 4px">
   <img src="https://skillicons.dev/icons?i=figma" height="32" alt="Figma" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=autocad" height="32" alt="AutoCAD" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=windows" height="32" alt="Windows" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="Linux" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=debian" height="32" alt="Debian" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="32" alt="Ubuntu" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VSCode" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=html" height="32" alt="HTML" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=md" height="32" alt="Markdown" style="margin-right: 4px">
+  <img src="https://skillicons.dev/icons?i=regex" height="32" alt="Regex" style="margin-right: 4px">
 </div>
 
 ### 📊 GitHub Stats
