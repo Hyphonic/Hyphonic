@@ -4,7 +4,9 @@
   <img src="image.png" width="150">
 </p>
 
-<p align="right"><img src="https://readme-typing-svg.demolab.com?font=Nunito&size=35&duration=2000&color=F7F7F7&multiline=true&width=800&height=200&lines=%F0%9F%91%8B+Hello+there%2C+I'm+Hyphonical;%F0%9F%92%BB+3D+Designer;%F0%9F%93%9D+Proficient+Python+and+Skript+Developer;%F0%9F%93%8C+Check+out+my+Pinned+Repositories" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="Header.svg">
+</p>
 
 ## 📃 About Me
 
