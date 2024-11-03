@@ -13,4 +13,4 @@ jobs:
         # A JSON list of a list of paths to markdown files to render in to HTML files
         input_files: '[["README.md"]]'
         # A JSON list of paths to save the rendered HTML files to
-        output_files: '["dist/README.html"]' 
+        output_files: '["README.html"]' 
