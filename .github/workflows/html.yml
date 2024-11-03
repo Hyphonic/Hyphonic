@@ -1,16 +1,28 @@
-name: GitHub Actions Demo
+name: Build Page 📚
 run-name: ${{ github.actor }}'s README Builder 🧰
 on: [push]
 jobs:
-  Action:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - name: Markdown-HTML
-      # You may pin to the exact commit or the version.
-      # uses: ZacJW/markdown-html-action@581e6df07c787a1eb980cb2fd6c0c82ace9c9c82
-      uses: ZacJW/markdown-html-action@1.2.0
+    - uses: actions/checkout@v4
+    - uses: wranders/markdown-to-pages-action@v1
       with:
-        # A JSON list of a list of paths to markdown files to render in to HTML files
-        input_files: '[["README.md"]]'
-        # A JSON list of paths to save the rendered HTML files to
-        output_files: '["README.html"]' 
+        token: ${{ secrets.GITHUB_TOKEN }}
+        files: |-
+          README.md
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        path: dist
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - uses: actions/deploy-pages@v4
+      id: deployment
