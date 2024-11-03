@@ -2,7 +2,7 @@ name: GitHub Actions Demo
 run-name: ${{ github.actor }}'s README Builder 🧰
 on: [push]
 jobs:
-	Action:
+ Action:
 		runs-on: ubuntu-latest
 		steps:
 			- name: Markdown-HTML
