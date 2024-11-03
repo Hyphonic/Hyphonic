@@ -11,6 +11,6 @@ jobs:
       uses: ZacJW/markdown-html-action@1.2.0
       with:
         # A JSON list of a list of paths to markdown files to render in to HTML files
-        input_files: '["*.md"]'
+        input_files: '[["README.md"]]'
         # A JSON list of paths to save the rendered HTML files to
-        output_files: '["dist/README.html"]' 
+        output_files: '[["dist/README.html"]]' 
