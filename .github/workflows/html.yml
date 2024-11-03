@@ -1,0 +1,16 @@
+name: GitHub Actions Demo
+run-name: ${{ github.actor }}'s README Builder 🧰
+on: [push]
+jobs:
+  Action:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Markdown-HTML
+      # You may pin to the exact commit or the version.
+      # uses: ZacJW/markdown-html-action@581e6df07c787a1eb980cb2fd6c0c82ace9c9c82
+      uses: ZacJW/markdown-html-action@1.2.0
+      with:
+        # A JSON list of a list of paths to markdown files to render in to HTML files
+        input_files: '["*.md"]'
+        # A JSON list of paths to save the rendered HTML files to
+        output_files: '["dist/README.html"]' 
