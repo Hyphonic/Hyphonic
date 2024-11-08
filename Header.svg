@@ -46,7 +46,7 @@
 
 			@keyframes blurAnimation {
 				from { filter: blur(5px); }
-				to { filter: blur(10px); }
+				to { filter: blur(7px); }
 			}
 
 			.card-info {
