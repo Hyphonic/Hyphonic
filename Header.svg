@@ -36,7 +36,7 @@
 				z-index: -1;
 				height: 100%;
 				width: 100%;
-				transform: scale(1.005);
+				transform: scale(0.95);
 				filter: blur(5px);
 				animation: blurAnimation 2s ease-in-out infinite alternate;
 				animation-delay: 1s;
