@@ -9,10 +9,11 @@ jobs:
     - uses: wranders/markdown-to-pages-action@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        files: README.md
+        files: |-
+          README.md
     - uses: actions/upload-pages-artifact@v3
       with:
-        path: output
+        path: dist
   deploy:
     runs-on: ubuntu-latest
     needs: build
