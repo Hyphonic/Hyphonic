@@ -1,11 +1,11 @@
 <svg
 	xmlns="http://www.w3.org/2000/svg"
-	width="800"
+	width="600"
 	height="800"
-	viewBox="0 0 800 800"
+	viewBox="0 0 600 800"
 	preserveAspectRatio="xMidYMid meet"
 	style="position:fixed; left:50%; top:50%; transform:translate(-50%,-47.5%);
-	width:100%; height:auto; min-width:700px;
+	width:100%; height:auto; min-width:600px;
 	max-width:90vw; max-height:90vh; display:block;">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -33,7 +33,7 @@
 					border-radius: 18px;
 					padding: 14px 16px 18px;
 					width:100%;
-					min-width:700px;
+					min-width:500px;
                     max-width:80vw;
                     margin:12px auto;
 					box-shadow:
@@ -180,7 +180,7 @@
 <span class="line">  • Skills            : Docker, CI/CD 🛠️</span>
 <span class="line">  • Languages         : Python, Bash, YAML, JSON, Markdown 🐍</span>
 <span class="line">  • Interests         : Open Source, UI/UX, Cloud ☁️</span>
-<span class="line">  • Studying          : Design &amp; Production Technology ~ Thomas More 🎒</span>
+<span class="line">  • Studying          : Design &amp; Production ~ Thomas More 🎒</span>
 <span class="line cmd"><span class="prompt">root@hypho.dev</span>:<span class="path">~/docker</span>$ <span class="symbol">gh profile | jq --compact-output</span></span>
 <span class="line">  • Focus             : Automation ~ Docker 🐳</span>
 <span class="line">  • Contact           : <a href="mailto:contact@hypho.dev">contact@hypho.dev</a> 📫</span>
