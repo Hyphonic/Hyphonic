@@ -30,7 +30,9 @@
 					position: relative;
 					border-radius: 18px;
 					padding: 14px 16px 18px;
-                    width:85vw;
+                    /* width:85vw; */
+					width:500px;
+                    max-width:500px;
                     margin:12px auto;
 					box-shadow:
 						0 0 0 1px var(--border),
