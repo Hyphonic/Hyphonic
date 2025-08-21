@@ -4,8 +4,7 @@
 	height="650"
 	viewBox="0 0 600 650"
 	preserveAspectRatio="xMidYMid meet"
-	style="position:fixed; left:50%; top:50%; transform:translate(-50%,-45%);
-	width:100%; height:auto; display:block;">
+	style="position:fixed; left:50%; top:50%; transform:translate(-50%,-45%); height:auto; display:block;">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
