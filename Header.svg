@@ -1,7 +1,10 @@
 <svg
 	xmlns="http://www.w3.org/2000/svg"
+	width="800"
+	height="800"
+	viewBox="0 0 800 800"
 	preserveAspectRatio="xMidYMid meet"
-	style="position:fixed; left:50%; top:50%; transform:translate(-50%,-47%);
+	style="position:fixed; left:50%; top:50%; transform:translate(-50%,-47.5%);
 	width:100%; height:auto; min-width:700px;
 	max-width:90vw; max-height:90vh; display:block;">
 	<foreignObject width="100%" height="100%">
@@ -103,22 +106,9 @@
 					overflow:hidden;
 					position:relative;
 				}
-				.line {
-					display: block;
-					color: var(--text);
-					margin: 0;
-					padding: 0;
-					line-height:0.15;
-				}
-				.line.cmd {
-					margin-top:10px;
-					margin-bottom:6px;
-					line-height:1.45;
-				}
-				a {
-					color: var(--accent);
-					text-decoration: underline;
-				}
+				.line { display:block; color:var(--text); margin:0; padding:0; line-height:0.15; }
+				.line.cmd { margin-top:10px; margin-bottom:6px; line-height:1.45; }
+				a { color:var(--accent); text-decoration:underline; }
 				.prompt { color:var(--green); }
 				.path { color:var(--accent); }
 				.symbol { color:var(--accent-2); }
