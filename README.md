@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="Header.svg">
+  <img src="Header.svg" width="100%">
 </p>
