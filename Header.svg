@@ -32,9 +32,7 @@
 					position: relative;
 					border-radius: 18px;
 					padding: 14px 16px 18px;
-					width:100%;
-					min-width:500px;
-                    max-width:80vw;
+                    width:85vw;
                     margin:12px auto;
 					box-shadow:
 						0 0 0 1px var(--border),
