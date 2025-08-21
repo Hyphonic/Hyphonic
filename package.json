@@ -1,0 +1,12 @@
+{
+  "name": "hyphonic-profile",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "marked": "^12.0.0",
+    "sanitize-html": "^2.13.0",
+    "github-markdown-css": "^5.5.1"
+  }
+}
